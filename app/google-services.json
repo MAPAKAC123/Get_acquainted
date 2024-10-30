@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "651596927137",
+    "project_id": "getacquainted-3cf26",
+    "storage_bucket": "getacquainted-3cf26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651596927137:android:2ccc2f022d8b3107d620e0",
+        "android_client_info": {
+          "package_name": "com.example.get_acquainted"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBijK6w2hILNPmUM3k5CTLX-jh1RKpEySs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
